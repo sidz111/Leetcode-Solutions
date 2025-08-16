@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sidz111/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sidz111/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Binary Search
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sidz111/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sidz111/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Hash Table
 |  |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sidz111/Leetcode-Solutions/tree/master/0383-ransom-note) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sidz111/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
