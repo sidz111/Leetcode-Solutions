@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sidz111/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/sidz111/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sidz111/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Binary Search
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sidz111/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/sidz111/Leetcode-Solutions/tree/master/0383-ransom-note) |
 ## String
 |  |
