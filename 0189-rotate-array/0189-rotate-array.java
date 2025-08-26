@@ -9,10 +9,9 @@ class Solution {
         }
     }
     public void rotate(int[] nums, int k) {
-        int n = nums.length;
-        k = k% n;
-        reverse(nums, 0, n-k-1);
-        reverse(nums, n-k, n-1);
-        reverse(nums, 0, n-1);
+        k = k% nums.length;
+        reverse(nums, 0, nums.length-k-1);
+        reverse(nums, nums.length-k, nums.length-1);
+        reverse(nums, 0, nums.length-1);
     }
 }
