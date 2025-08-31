@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sidz111/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sidz111/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/sidz111/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sidz111/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sidz111/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -37,10 +38,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sidz111/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/sidz111/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sidz111/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sidz111/Leetcode-Solutions/tree/master/0189-rotate-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sidz111/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
